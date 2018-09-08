@@ -60,11 +60,12 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
 /******/ ([
 /* 0 */
+<<<<<<< HEAD
 /***/ (function(module, exports, __webpack_require__) {
 
 var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
@@ -9947,6 +9948,11 @@ class MobileMenu {
 /***/ (function(module, exports) {
 
 throw new Error("Module parse failed: Unexpected token (2:7)\nYou may need an appropriate loader to handle this file type.\n| class RevealOnScroll {\r\n| import $ from 'jquery';\r\n| import waypoints from '../../../../node_modules/waypoints/lib/noframework.waypoints';\r\n| \r");
+=======
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed: (SystemJS) ENOENT: no such file or directory, open 'C:\\Users\\rcola\\OneDrive\\Desktop\\sites\\travel-agent\\C:\\Users\\rcola\\OneDrive\\Desktop\\sites\\travel-agent\\node_modules\\babel-loader\\lib\\index.js'\n\tError: ENOENT: no such file or directory, open 'C:\\Users\\rcola\\OneDrive\\Desktop\\sites\\travel-agent\\C:\\Users\\rcola\\OneDrive\\Desktop\\sites\\travel-agent\\node_modules\\babel-loader\\lib\\index.js'\n\tError loading C:/Users/rcola/OneDrive/Desktop/sites/travel-agent/C:\\Users\\rcola\\OneDrive\\Desktop\\sites\\travel-agent\\node_modules\\babel-loader\\lib\\index.js");
+>>>>>>> reveal-on-scroll
 
 /***/ })
 /******/ ]);
